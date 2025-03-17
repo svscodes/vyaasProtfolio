@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Vyaas Sundar's Personal Website"
+title                    : "Vyaas Sundar / Personal Website"
 title_separator          : "-"
 name                     : &name "Vyaas Sundar"
 description              : &description "personal description"
