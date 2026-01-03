@@ -6,6 +6,8 @@ collection: portfolio
 
 **Tech Stack:** Node.js, JavaScript, OS Modules
 
+##Shell
+
 ## The "Why"
 I've used Bash and Zsh for years, but I realized I treated them like black boxes. I wanted to understand the lifecycle of a command from keystroke to execution.
 
