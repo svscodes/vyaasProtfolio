@@ -18,7 +18,7 @@ Currently, I’m specializing in building scalable systems that don't crash when
 
 I like building things that sound difficult just to see if I can. Here are a few:
 
-### 🚀 **[LeetLink (Chrome Extension)](YOUR_STORE_LINK_HERE)**
+### 🚀 **[LeetLink (Chrome Extension)]([YOUR_STORE_LINK_HERE](https://chromewebstore.google.com/detail/oklfkajedlajipjbbdbcjcohhhgelnih?utm_source=item-share-cb))**
 * ** The Problem:** Manually copying LeetCode solutions to GitHub is boring and I am lazy.
 * **The Solution:** I built a Manifest V3 extension that does it automatically.
 * **The Fun Part:** I had to architect a script-injection bridge to bypass Chrome's "Isolated World" security just to steal the code from the editor. It was secure, ethical hacking for the sake of laziness.
