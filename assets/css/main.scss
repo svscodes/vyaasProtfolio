@@ -41,18 +41,57 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
-/* Force Pure Black Background */
+/* --- GEMINI DARK THEME OVERRIDE --- */
+
+/* 1. Main Background (Deep Charcoal) */
 body {
-    background-color: #000000 !important;
-    color: #ffffff !important;
+    background-color: #131314 !important;
+    color: #E3E3E3 !important; /* Soft White Text */
 }
 
-/* Make the Sidebar Pure Black too */
+/* 2. Sidebar (Slightly Lighter Surface) */
 .sidebar {
-    background-color: #000000 !important;
+    background-color: #1E1F20 !important;
+    border-right: 1px solid #444746; /* Subtle border separator */
 }
 
-/* Fix content containers if they are grey */
+/* 3. Content Area */
 .page__content {
-    background-color: #000000 !important;
+    background-color: #131314 !important;
+}
+
+/* 4. Links (Gemini Blue) */
+a {
+    color: #8AB4F8 !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #A8C7FA !important; /* Lighter blue on hover */
+    text-decoration: underline;
+}
+
+/* 5. Headings (Crisp White) */
+h1, h2, h3, h4, h5, h6 {
+    color: #F1F1F1 !important;
+}
+
+/* 6. Buttons (Gemini Primary Action Style) */
+.btn--primary {
+    background-color: #A8C7FA !important;
+    color: #040C18 !important; /* Dark text on button */
+    border-radius: 24px !important; /* Pill shape like Gemini buttons */
+    border: none !important;
+    font-weight: 500 !important;
+}
+
+.btn--primary:hover {
+    background-color: #8AB4F8 !important;
+}
+
+/* 7. Code Blocks (Darker inset) */
+pre, code {
+    background-color: #1E1F20 !important;
+    color: #E3E3E3 !important;
+    border-radius: 8px;
 }
