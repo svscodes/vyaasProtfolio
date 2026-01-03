@@ -41,3 +41,18 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+/* Force Pure Black Background */
+body {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+/* Make the Sidebar Pure Black too */
+.sidebar {
+    background-color: #000000 !important;
+}
+
+/* Fix content containers if they are grey */
+.page__content {
+    background-color: #000000 !important;
+}
