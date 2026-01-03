@@ -15,4 +15,4 @@ collection: portfolio
 3.  **Serverless Sync:**
     The extension communicates directly with the **GitHub REST API** from the client side, handling file versioning (SHA checks) and directory creation without a backend server.
 
-**[Download on Chrome Web Store](YOUR_STORE_LINK_HERE)** | **[View Source Code](YOUR_GITHUB_REPO_LINK)**
+**[Download on Chrome Web Store](https://chromewebstore.google.com/detail/oklfkajedlajipjbbdbcjcohhhgelnih?utm_source=item-share-cb)** | **[View Source Code](YOUR_GITHUB_REPO_LINK)**
