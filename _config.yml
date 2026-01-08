@@ -22,7 +22,7 @@ repository               : "svscodes/vyaasProtfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Vyaas_profile.jpg"
   name             : "S Vyaas Sundar"
   pronouns         : # example: "she/her"  
   bio              : "Final year CSE student"
